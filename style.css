@@ -1,0 +1,26 @@
+.h-1{
+    background-color: lightskyblue;
+    width: 100%;
+    position: absolute;
+    top: 0;
+}
+.t-center{
+    text-align: center;
+}
+body{
+    margin-left: 0;
+    margin-right: 0;
+}
+.b-1{
+    border: 1px solid #000;
+}
+.wh{
+    width: 60%;
+    height: 500px;
+}
+.m-auto{
+    margin: auto;
+}
+.d-flex{
+    display: flex;
+}
