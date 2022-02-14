@@ -7,10 +7,6 @@
 .t-center{
     text-align: center;
 }
-body{
-    margin-left: 0;
-    margin-right: 0;
-}
 .b-1{
     border: 1px solid #000;
 }
@@ -23,4 +19,23 @@ body{
 }
 .d-flex{
     display: flex;
+}
+.align-c{
+    align-items: center;
+}
+.color{
+    background-color: rgb(226, 226, 47);
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    z-index: 1;
+    overflow-y: scroll;
+}
+.img-1{
+    width: 200px;
+    margin-left: 40%;
+}
+.l-h{
+    line-height: 200px;
 }
