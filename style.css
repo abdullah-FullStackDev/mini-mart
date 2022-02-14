@@ -1,18 +1,6 @@
-.h-1{
-    background-color: lightskyblue;
-    width: 100%;
-    position: absolute;
-    top: 0;
-}
+
 .t-center{
     text-align: center;
-}
-.b-1{
-    border: 1px solid #000;
-}
-.wh{
-    width: 60%;
-    height: 500px;
 }
 .m-auto{
     margin: auto;
@@ -23,19 +11,30 @@
 .align-c{
     align-items: center;
 }
-.color{
-    background-color: rgb(226, 226, 47);
-    top: 0;
-    right: 0;
-    left: 0;
-    bottom: 0;
-    z-index: 1;
-    overflow-y: scroll;
-}
 .img-1{
     width: 200px;
     margin-left: 40%;
 }
-.l-h{
-    line-height: 200px;
+.fz{
+    font-size: 40px;
+}
+.color-1{
+    background-color: cyan;
+    width: 1000px;
+    height: 1px;
+}
+.color{
+    background-color: yellow;
+}
+header{
+    background-color: black;
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+.b{
+    margin-left: 30px;
+}
+body{
+    margin-left: 0;
 }
