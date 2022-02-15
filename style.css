@@ -54,10 +54,12 @@ body{
     background-color: palevioletred;
     width: 225px;
     z-index: 3;
+    padding: 5px;
 }
 .p-1{
     padding: 5px;
 }
 .fz-h{
     font-size: 2em;
+    font-weight: bold;
 }
