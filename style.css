@@ -65,7 +65,7 @@ body{
     margin-bottom: 0;
 }
 .container-3{
-    background-color: gainsboro;
+    background-color: palevioletred;
     width: 50%;
 }
 #s-image{
@@ -73,7 +73,7 @@ body{
    height: 40px;
   }
   footer{
-      background-color: gainsboro;
+      background-color: palevioletred;
       text-align: center;
   }
   .g-p-m{
