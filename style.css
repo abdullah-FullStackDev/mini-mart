@@ -18,11 +18,6 @@
 .fz{
     font-size: 40px;
 }
-.color-1{
-    background-color: cyan;
-    width: 1000px;
-    height: 1px;
-}
 .color{
     background-color: yellow;
 }
@@ -39,6 +34,7 @@ header{
 body{
     margin-left: 0;
     margin-right: 0;
+    margin-bottom: 0;
 }
 .m-t{
     margin-top: 50px;
@@ -79,7 +75,6 @@ body{
   footer{
       background-color: gainsboro;
       text-align: center;
-      margin-bottom: 0;
   }
   .g-p-m{
       margin-top: 1%;
