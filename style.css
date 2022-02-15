@@ -47,5 +47,6 @@ body{
     width: 1000px;
 }
 .se{
+    display: flex;
     justify-content: space-evenly;
 }
