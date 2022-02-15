@@ -38,6 +38,7 @@ header{
 }
 body{
     margin-left: 0;
+    margin-right: 0;
 }
 .m-t{
     margin-top: 50px;
@@ -63,3 +64,26 @@ body{
     font-size: 2em;
     font-weight: bold;
 }
+.wi-100{
+    width: 50%;
+    margin-bottom: 0;
+}
+.container-3{
+    background-color: gainsboro;
+    width: 50%;
+}
+#s-image{
+    border-radius: 50%;
+   height: 40px;
+  }
+  footer{
+      background-color: gainsboro;
+      text-align: center;
+      margin-bottom: 0;
+  }
+  .g-p-m{
+      margin-top: 1%;
+  }
+  .c-o-p{
+   color: rgba(39, 31, 31, 0.342);
+  }
