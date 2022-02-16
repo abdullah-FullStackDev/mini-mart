@@ -94,3 +94,7 @@ body{
       display: flex;
       flex-direction: column;
   }
+  .fz-la{
+      font-size: large;
+      font-weight: bold;
+  }
