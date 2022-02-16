@@ -90,3 +90,7 @@ body{
     background-color: palevioletred;
     width: 50%;
   }
+  .li{
+      display: flex;
+      flex-direction: column;
+  }
