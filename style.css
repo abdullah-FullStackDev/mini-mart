@@ -70,11 +70,11 @@ body{
 }
 #s-image{
     border-radius: 50%;
-   height: 40px;
+    height: 40px;
   }
   footer{
       background-color: palevioletred;
-      text-align: center;
+     text-align: center;
   }
   .g-p-m{
       margin-top: 1%;
