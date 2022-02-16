@@ -86,3 +86,7 @@ body{
       font-size: larger;
       font-weight: bold;
   }
+  .co-2{
+    background-color: palevioletred;
+    width: 50%;
+  }
