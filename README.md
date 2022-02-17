@@ -9,7 +9,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://abdullah-fullstackdev.github.io/google.com-2/)
+[Live Demo Link](https://github.com/abdullah-FullStackDev/mini-mart/blob/main/ss.png)
 
 ## Getting Started
 
