@@ -9,7 +9,7 @@
 
 ## Live Demo
 
-[Live Demo Link]()
+[Live Demo Link](https://abdullah-fullstackdev.github.io/mini-mart/)
 
 ## Getting Started
 
